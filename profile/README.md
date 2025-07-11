@@ -8,5 +8,7 @@ In the meantime please have a look to the Github pages of our members:
 - Giorgio Gonnella, Unit Head, https://github.com/ggonnella
 - Sopheap Oeng, Bioinformatics Systems Engineer, https://github.com/Sopheap15
 - Sivyi Chhay, Bioinformatics Research Engineer, https://github.com/Sivyi099
+- Kimsoun Kao, Data Science Intern,
+https://github.com/KaoKimsoun
 
 and to our institutional web page @ IPC: https://www.pasteur-kh.org/baia/
