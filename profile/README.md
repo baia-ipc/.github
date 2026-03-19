@@ -6,7 +6,6 @@ Our Github organization site was just created. Come back later on to meet here t
 
 In the meantime please have a look to the Github pages of our members:
 - Giorgio Gonnella, Unit Head, https://github.com/ggonnella
-  
 - Sivyi Chhay, Bioinformatics Research Engineer, https://github.com/Sivyi099
 - Cheaminh Chiep, Intern Student, https://github.com/Chea-ming
 - Jannes Mittelbach, Intern Student and Visiting scientist, https://github.com/JMittelbach
