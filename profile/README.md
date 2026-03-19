@@ -16,3 +16,7 @@ https://github.com/KaoKimsoun
 - Sopheap Oeng, Bioinformatics Systems Engineer, https://github.com/Sopheap15
 
 and to our institutional web page @ IPC: https://www.pasteur-kh.org/baia/
+
+# Projects
+
+Our projects will be listed here, once published.
