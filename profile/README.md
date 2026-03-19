@@ -1,5 +1,5 @@
-Welcome to the Github site of the Unit for Bioinformatics and AI Applications (BAIA)
-of the Institut Pasteur du Cambodge (IPC) located in central Phnom Pehn,
+Welcome to the Github site of the **Unit for Bioinformatics and AI Applications**, short _BAIA_,
+of the *Institut Pasteur du Cambodge* (IPC) located in central Phnom Pehn,
 the beautiful capital of the Kingdom of Wonder.
 
 # Members
