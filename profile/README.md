@@ -4,20 +4,19 @@ the beautiful capital of the Kingdom of Wonder.
 
 # Members
 
+| Name              | Function                             | Github account                 |
 | ----------------- | ------------------------------------ | ------------------------------ |
 | Giorgio Gonnella  | Unit Head                            | https://github.com/ggonnella   |
-| ----------------- | ------------------------------------ | ------------------------------ |
 | Sivyi Chhay       | Bioinformatics Research Engineer     | https://github.com/Sivyi099    |
 | Cheaminh Chiep    | Intern Student                       | https://github.com/Chea-ming   |
 | Jannes Mittelbach | Intern Student / Visiting scientist  | https://github.com/JMittelbach |
-| ----------------- | ------------------------------------ | ------------------------------ |
 
 # Alumni
 
+| Name              | Function                             | Github account                 |
 | ----------------- | ------------------------------------ | ------------------------------ |
 | Kimsoun Kao       | Data Science Intern                  | https://github.com/KaoKimsoun  |
 | Sopheap Oeng      | Bioinformatics Systems Engineer      | https://github.com/Sopheap15   |
-| ----------------- | ------------------------------------ | ------------------------------ |
 
 # Projects
 
