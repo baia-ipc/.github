@@ -6,7 +6,7 @@ the beautiful capital of the Kingdom of Wonder.
 
 | Name                  | Function                             | Github account                 |
 | --------------------- | ------------------------------------ | ------------------------------ |
-| Dr. Giorgio Gonnella  | Unit Head                            | https://github.com/ggonnella   |
+| Dr. Giorgio Gonnella  | _Unit Head_                            | https://github.com/ggonnella   |
 | Sivyi Chhay           | Bioinformatics Research Engineer     | https://github.com/Sivyi099    |
 | Cheaminh Chiep        | Intern Student                       | https://github.com/Chea-ming   |
 | Jannes Mittelbach     | Intern Student / Visiting scientist  | https://github.com/JMittelbach |
