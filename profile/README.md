@@ -1,4 +1,4 @@
-Welcome to the Github site of the **Unit for Bioinformatics and AI Applications**, short _BAIA_,
+Welcome to the Github site of the **Unit for Bioinformatics and Artificial Intelligence Applications**, short _BAIA_,
 of the *Institut Pasteur du Cambodge* (IPC) located in central Phnom Pehn,
 the beautiful capital of the Kingdom of Wonder.
 
@@ -6,8 +6,9 @@ the beautiful capital of the Kingdom of Wonder.
 
 | Name                  | Function                             | Github account                 |
 | --------------------- | ------------------------------------ | ------------------------------ |
-| Dr. Giorgio Gonnella  | _Unit Head_                            | https://github.com/ggonnella   |
+| Dr. Giorgio Gonnella  | _Unit Head_                          | https://github.com/ggonnella   |
 | Sivyi Chhay           | Bioinformatics Research Engineer     | https://github.com/Sivyi099    |
+| Sokuntepy Chriv       | Artificial Intelligence Engineer     | not yet available              |
 | Cheaminh Chiep        | Intern Student                       | https://github.com/Chea-ming   |
 | Jannes Mittelbach     | Intern Student / Visiting scientist  | https://github.com/JMittelbach |
 
