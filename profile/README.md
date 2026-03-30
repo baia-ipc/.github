@@ -8,7 +8,7 @@ the beautiful capital of the Kingdom of Wonder.
 | --------------------- | ------------------------------------ | ------------------------------ |
 | Dr. Giorgio Gonnella  | _Unit Head_                          | https://github.com/ggonnella   |
 | Sivyi Chhay           | Bioinformatics Research Engineer     | https://github.com/Sivyi099    |
-| Sokuntepy Chriv       | Artificial Intelligence Engineer     | not yet available              |
+| Sokuntepy Chriv       | Artificial Intelligence Engineer     | https://github.com/Sokuntepy   |
 | Cheaminh Chiep        | Intern Student                       | https://github.com/Chea-ming   |
 | Jannes Mittelbach     | Intern Student / Visiting scientist  | https://github.com/JMittelbach |
 
