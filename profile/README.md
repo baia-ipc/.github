@@ -2,6 +2,16 @@ Welcome to the Github site of the **Unit for Bioinformatics and Artificial Intel
 of the *Institut Pasteur du Cambodge* (IPC) located in central Phnom Pehn,
 the beautiful capital of the Kingdom of Wonder.
 
+# Projects
+
+Work in progress! More and more publicly available projects will be listed here, once published.
+For the moment just some small projects are linked here.
+
+| Project                                                        | Description                                                                      |
+| -------------------------------------------------------------- | ---------------------------------------------------------------------------------|
+| [RMD Report Deck](https://github.com/baia-ipc/rmdreportdeck)   | Styled interactive reports for R Markdown based analyses                         |
+
+
 # Members
 
 | Name                  | Function                             | Github account                 |
@@ -18,10 +28,6 @@ the beautiful capital of the Kingdom of Wonder.
 | --------------------- | ------------------------------------ | ------------------------------ |
 | Kimsoun Kao           | Data Science Intern                  | https://github.com/KaoKimsoun  |
 | Sopheap Oeng          | Bioinformatics Systems Engineer      | https://github.com/Sopheap15   |
-
-# Projects
-
-Our projects will be listed here, once published.
 
 # Links
 
