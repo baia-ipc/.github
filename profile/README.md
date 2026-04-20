@@ -21,6 +21,7 @@ For the moment just some small projects are linked here.
 | Sokuntepy Chriv       | Artificial Intelligence Engineer     | https://github.com/Sokuntepy   |
 | Cheaminh Chiep        | Intern Student                       | https://github.com/Chea-ming   |
 | Jannes Mittelbach     | Intern Student / Visiting scientist  | https://github.com/JMittelbach |
+| Vattana Ouk           | Intern Student                       | https://github.com/vatana-ou3  |
 
 # Alumni
 
