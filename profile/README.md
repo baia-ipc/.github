@@ -22,6 +22,7 @@ For the moment just some small projects are linked here.
 | Cheaminh Chiep        | Intern Student                       | https://github.com/Chea-ming   |
 | Jannes Mittelbach     | Intern Student / Visiting scientist  | https://github.com/JMittelbach |
 | Vattana Ouk           | Intern Student                       | https://github.com/vatana-ou3  |
+| Panha Lim             | Intern Student                       | https://github.com/NhaNhaa     |
 
 # Alumni
 
