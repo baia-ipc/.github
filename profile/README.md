@@ -19,8 +19,6 @@ For the moment just some small projects are linked here.
 | Dr. Giorgio Gonnella  | _Unit Head_                          | https://github.com/ggonnella   |
 | Sivyi Chhay           | Bioinformatics Research Engineer     | https://github.com/Sivyi099    |
 | Sokuntepy Chriv       | Artificial Intelligence Engineer     | https://github.com/Sokuntepy   |
-| Cheaminh Chiep        | Intern Student                       | https://github.com/Chea-ming   |
-| Jannes Mittelbach     | Intern Student / Visiting scientist  | https://github.com/JMittelbach |
 | Vattana Ouk           | Intern Student                       | https://github.com/vatana-ou3  |
 | Panha Lim             | Intern Student                       | https://github.com/NhaNhaa     |
 
@@ -28,6 +26,8 @@ For the moment just some small projects are linked here.
 
 | Name                  | Function                             | Github account                 |
 | --------------------- | ------------------------------------ | ------------------------------ |
+| Cheaminh Chiep        | Intern Student                       | https://github.com/Chea-ming   |
+| Jannes Mittelbach     | Intern Student / Visiting scientist  | https://github.com/JMittelbach |
 | Kimsoun Kao           | Data Science Intern                  | https://github.com/KaoKimsoun  |
 | Sopheap Oeng          | Bioinformatics Systems Engineer      | https://github.com/Sopheap15   |
 
