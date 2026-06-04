@@ -21,6 +21,7 @@ For the moment just some small projects are linked here.
 | Sokuntepy Chriv       | Artificial Intelligence Engineer     | https://github.com/Sokuntepy   |
 | Vattana Ouk           | Intern Student                       | https://github.com/vatana-ou3  |
 | Panha Lim             | Intern Student                       | https://github.com/NhaNhaa     |
+| Tom Perrin            | Intern Student                       | https://github.com/tom-perrin  |
 
 # Alumni
 
