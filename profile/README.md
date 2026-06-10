@@ -28,7 +28,7 @@ the beautiful capital of the [Kingdom of Wonder](https://en.wikipedia.org/wiki/C
       <td>Extended version of cell proportion plots from scProportionPlot</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/baia-cellchat/">BAIA Cellchat</a></td>
+      <td><a href="https://github.com/baia-cellchat/">BAIA Cellchat Wrapper</a></td>
       <td>Wrapper library for Cellchat analysis</td>
     </tr>
     <tr>
