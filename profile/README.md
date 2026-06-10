@@ -4,12 +4,16 @@ the beautiful capital of the [Kingdom of Wonder](https://en.wikipedia.org/wiki/C
 
 # Projects
 
-Work in progress! More and more publicly available projects will be listed here, once published.
-For the moment just some small projects are linked here.
 
 | Project                                                        | Description                                                                      |
 | -------------------------------------------------------------- | ---------------------------------------------------------------------------------|
 | [RMD Report Deck](https://github.com/baia-ipc/rmdreportdeck)   | Styled interactive reports for R Markdown based analyses                         |
+| [BAIA Seurat Helpers](https://github.com/baia-seurat-helpers/) | Helper functions for QC and filtering in Seurat                                  |
+| [BAIA Extended Cell Proportion Plots](https://github.com/baia-ext-cellprop-plots/) | Extended version of cell proportion plots from scProportionPlot |
+| [BAIA Cellchat](https://github.com/baia-cellchat/) | Wrapper library for Cellchat analysis |
+| [BAIA Pathway analysis](https://github.com/baia-pathway-analysis/) | Wrapper library for pathway analysis with ClusterProfiler |
+| [BAIA Pseudobulk Deseq](https://github.com/baia-pseudobulk-deseq/) | Wrapper library for running pseudobulk Deseq in Seurat |
+
 
 
 # Members
