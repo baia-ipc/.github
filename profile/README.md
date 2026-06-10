@@ -14,7 +14,7 @@ the beautiful capital of the [Kingdom of Wonder](https://en.wikipedia.org/wiki/C
   </thead>
   <tbody>
     <tr>
-      <td>BAIA Analysis reports</td>
+      <td>BAIA Analysis dashboard system</td>
       <td><a href="https://github.com/baia-ipc/rmdreportdeck">RMD Report Deck</a></td>
       <td>Styled interactive reports for R Markdown based analyses</td>
     </tr>
