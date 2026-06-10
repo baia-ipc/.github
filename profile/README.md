@@ -20,23 +20,23 @@ the beautiful capital of the [Kingdom of Wonder](https://en.wikipedia.org/wiki/C
     </tr>
     <tr>
       <td rowspan="5">BAIA scRNA-seq libraries</td>
-      <td><a href="https://github.com/baia-seurat-helpers/">BAIA Seurat Helpers</a></td>
+      <td><a href="https://github.com/baia-ipc/baia-seurat-helpers/">BAIA Seurat Helpers</a></td>
       <td>Helper functions for QC and filtering in Seurat</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/baia-ext-cellprop-plots/">BAIA Extended Cell Proportion Plots</a></td>
+      <td><a href="https://github.com/baia-ipc/baia-ext-cellprop-plots/">BAIA Extended Cell Proportion Plots</a></td>
       <td>Extended version of cell proportion plots from scProportionPlot</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/baia-cellchat/">BAIA Cellchat Wrapper</a></td>
+      <td><a href="https://github.com/baia-ipc/baia-cellchat/">BAIA Cellchat Wrapper</a></td>
       <td>Wrapper library for Cellchat analysis</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/baia-pathway-analysis/">BAIA Pathway analysis</a></td>
+      <td><a href="https://github.com/baia-ipc/baia-pathway-analysis/">BAIA Pathway analysis</a></td>
       <td>Wrapper library for pathway analysis with ClusterProfiler</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/baia-pseudobulk-deseq/">BAIA Pseudobulk Deseq</a></td>
+      <td><a href="https://github.com/baia-ipc/baia-pseudobulk-deseq/">BAIA Pseudobulk Deseq</a></td>
       <td>Wrapper library for running pseudobulk Deseq in Seurat</td>
     </tr>
   </tbody>
