@@ -4,17 +4,43 @@ the beautiful capital of the [Kingdom of Wonder](https://en.wikipedia.org/wiki/C
 
 # Projects
 
-
-| Project                                                        | Description                                                                      |
-| -------------------------------------------------------------- | ---------------------------------------------------------------------------------|
-| [RMD Report Deck](https://github.com/baia-ipc/rmdreportdeck)   | Styled interactive reports for R Markdown based analyses                         |
-| [BAIA Seurat Helpers](https://github.com/baia-seurat-helpers/) | Helper functions for QC and filtering in Seurat                                  |
-| [BAIA Extended Cell Proportion Plots](https://github.com/baia-ext-cellprop-plots/) | Extended version of cell proportion plots from scProportionPlot |
-| [BAIA Cellchat](https://github.com/baia-cellchat/) | Wrapper library for Cellchat analysis |
-| [BAIA Pathway analysis](https://github.com/baia-pathway-analysis/) | Wrapper library for pathway analysis with ClusterProfiler |
-| [BAIA Pseudobulk Deseq](https://github.com/baia-pseudobulk-deseq/) | Wrapper library for running pseudobulk Deseq in Seurat |
-
-
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Repository</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BAIA Analysis reports</td>
+      <td><a href="https://github.com/baia-ipc/rmdreportdeck">RMD Report Deck</a></td>
+      <td>Styled interactive reports for R Markdown based analyses</td>
+    </tr>
+    <tr>
+      <td rowspan="5">BAIA scRNA-seq libraries</td>
+      <td><a href="https://github.com/baia-seurat-helpers/">BAIA Seurat Helpers</a></td>
+      <td>Helper functions for QC and filtering in Seurat</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/baia-ext-cellprop-plots/">BAIA Extended Cell Proportion Plots</a></td>
+      <td>Extended version of cell proportion plots from scProportionPlot</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/baia-cellchat/">BAIA Cellchat</a></td>
+      <td>Wrapper library for Cellchat analysis</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/baia-pathway-analysis/">BAIA Pathway analysis</a></td>
+      <td>Wrapper library for pathway analysis with ClusterProfiler</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/baia-pseudobulk-deseq/">BAIA Pseudobulk Deseq</a></td>
+      <td>Wrapper library for running pseudobulk Deseq in Seurat</td>
+    </tr>
+  </tbody>
+</table>
 
 # Members
 
